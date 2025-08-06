@@ -1,0 +1,2116 @@
+[
+  {
+    "data": {
+      "cards": [
+        {
+          "nmID": 163578447,
+          "vendorCode": "fountain_homeria",
+          "brandName": "Homeria",
+          "object": {
+            "name": "Фонтаны"
+          },
+          "statistics": {
+            "selectedPeriod": {
+              "begin": "2025-08-04 00:00:00",
+              "end": "2025-08-04 23:59:59",
+              "openCardCount": 2474,
+              "addToCartCount": 377,
+              "ordersCount": 43,
+              "ordersSumRub": 39861,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 43,
+              "avgPriceRub": 927,
+              "conversions": {
+                "addToCartPercent": 15,
+                "cartToOrderPercent": 11,
+                "buyoutsPercent": 0
+              }
+            },
+            "previousPeriod": {
+              "begin": "2025-08-03 00:00:00",
+              "end": "2025-08-03 23:59:59",
+              "openCardCount": 2590,
+              "addToCartCount": 396,
+              "ordersCount": 29,
+              "ordersSumRub": 26884,
+              "buyoutsCount": 2,
+              "buyoutsSumRub": 1854,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 29,
+              "avgPriceRub": 927,
+              "conversions": {
+                "addToCartPercent": 15,
+                "cartToOrderPercent": 7,
+                "buyoutsPercent": 100
+              }
+            },
+            "periodComparison": {
+              "openCardDynamics": -4,
+              "addToCartDynamics": -5,
+              "ordersCountDynamics": 48,
+              "ordersSumRubDynamics": 48,
+              "buyoutsCountDynamics": -100,
+              "buyoutsSumRubDynamics": -100,
+              "cancelCountDynamics": 0,
+              "cancelSumRubDynamics": 0,
+              "avgOrdersCountPerDayDynamics": 48,
+              "avgPriceRubDynamics": 0,
+              "conversions": {
+                "addToCartPercent": 0,
+                "cartToOrderPercent": 57,
+                "buyoutsPercent": -100
+              }
+            }
+          },
+          "stocks": {
+            "stocksWb": 256
+          }
+        },
+        {
+          "nmID": 227008025,
+          "vendorCode": "fountain_flower_pink",
+          "brandName": "Homeria",
+          "object": {
+            "name": "Фонтаны"
+          },
+          "statistics": {
+            "selectedPeriod": {
+              "begin": "2025-08-04 00:00:00",
+              "end": "2025-08-04 23:59:59",
+              "openCardCount": 364,
+              "addToCartCount": 52,
+              "ordersCount": 10,
+              "ordersSumRub": 9190,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 10,
+              "avgPriceRub": 919,
+              "conversions": {
+                "addToCartPercent": 14,
+                "cartToOrderPercent": 19,
+                "buyoutsPercent": 0
+              }
+            },
+            "previousPeriod": {
+              "begin": "2025-08-03 00:00:00",
+              "end": "2025-08-03 23:59:59",
+              "openCardCount": 347,
+              "addToCartCount": 37,
+              "ordersCount": 5,
+              "ordersSumRub": 5545,
+              "buyoutsCount": 3,
+              "buyoutsSumRub": 3232,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 5,
+              "avgPriceRub": 1109,
+              "conversions": {
+                "addToCartPercent": 11,
+                "cartToOrderPercent": 14,
+                "buyoutsPercent": 100
+              }
+            },
+            "periodComparison": {
+              "openCardDynamics": 5,
+              "addToCartDynamics": 41,
+              "ordersCountDynamics": 100,
+              "ordersSumRubDynamics": 66,
+              "buyoutsCountDynamics": -100,
+              "buyoutsSumRubDynamics": -100,
+              "cancelCountDynamics": 0,
+              "cancelSumRubDynamics": 0,
+              "avgOrdersCountPerDayDynamics": 100,
+              "avgPriceRubDynamics": -17,
+              "conversions": {
+                "addToCartPercent": 27,
+                "cartToOrderPercent": 36,
+                "buyoutsPercent": -100
+              }
+            }
+          },
+          "stocks": {
+            "stocksWb": 186
+          }
+        },
+        {
+          "nmID": 388967858,
+          "vendorCode": "хорек_1",
+          "brandName": "Homeria",
+          "object": {
+            "name": "Светильники уличные"
+          },
+          "statistics": {
+            "selectedPeriod": {
+              "begin": "2025-08-04 00:00:00",
+              "end": "2025-08-04 23:59:59",
+              "openCardCount": 277,
+              "addToCartCount": 47,
+              "ordersCount": 4,
+              "ordersSumRub": 3080,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 4,
+              "avgPriceRub": 770,
+              "conversions": {
+                "addToCartPercent": 17,
+                "cartToOrderPercent": 9,
+                "buyoutsPercent": 0
+              }
+            },
+            "previousPeriod": {
+              "begin": "2025-08-03 00:00:00",
+              "end": "2025-08-03 23:59:59",
+              "openCardCount": 100,
+              "addToCartCount": 14,
+              "ordersCount": 5,
+              "ordersSumRub": 3850,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 5,
+              "avgPriceRub": 770,
+              "conversions": {
+                "addToCartPercent": 14,
+                "cartToOrderPercent": 36,
+                "buyoutsPercent": 0
+              }
+            },
+            "periodComparison": {
+              "openCardDynamics": 177,
+              "addToCartDynamics": 236,
+              "ordersCountDynamics": -20,
+              "ordersSumRubDynamics": -20,
+              "buyoutsCountDynamics": 0,
+              "buyoutsSumRubDynamics": 0,
+              "cancelCountDynamics": 0,
+              "cancelSumRubDynamics": 0,
+              "avgOrdersCountPerDayDynamics": -20,
+              "avgPriceRubDynamics": 0,
+              "conversions": {
+                "addToCartPercent": 21,
+                "cartToOrderPercent": -75,
+                "buyoutsPercent": 0
+              }
+            }
+          },
+          "stocks": {
+            "stocksWb": 282
+          }
+        },
+        {
+          "nmID": 255536153,
+          "vendorCode": "кувшинки_6шт_homeria",
+          "brandName": "Homeria",
+          "object": {
+            "name": "Светильники уличные"
+          },
+          "statistics": {
+            "selectedPeriod": {
+              "begin": "2025-08-04 00:00:00",
+              "end": "2025-08-04 23:59:59",
+              "openCardCount": 94,
+              "addToCartCount": 4,
+              "ordersCount": 3,
+              "ordersSumRub": 2760,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 3,
+              "avgPriceRub": 920,
+              "conversions": {
+                "addToCartPercent": 4,
+                "cartToOrderPercent": 75,
+                "buyoutsPercent": 0
+              }
+            },
+            "previousPeriod": {
+              "begin": "2025-08-03 00:00:00",
+              "end": "2025-08-03 23:59:59",
+              "openCardCount": 79,
+              "addToCartCount": 14,
+              "ordersCount": 5,
+              "ordersSumRub": 4600,
+              "buyoutsCount": 1,
+              "buyoutsSumRub": 920,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 5,
+              "avgPriceRub": 920,
+              "conversions": {
+                "addToCartPercent": 18,
+                "cartToOrderPercent": 36,
+                "buyoutsPercent": 100
+              }
+            },
+            "periodComparison": {
+              "openCardDynamics": 19,
+              "addToCartDynamics": -71,
+              "ordersCountDynamics": -40,
+              "ordersSumRubDynamics": -40,
+              "buyoutsCountDynamics": -100,
+              "buyoutsSumRubDynamics": -100,
+              "cancelCountDynamics": 0,
+              "cancelSumRubDynamics": 0,
+              "avgOrdersCountPerDayDynamics": -40,
+              "avgPriceRubDynamics": 0,
+              "conversions": {
+                "addToCartPercent": -78,
+                "cartToOrderPercent": 108,
+                "buyoutsPercent": -100
+              }
+            }
+          },
+          "stocks": {
+            "stocksWb": 30
+          }
+        },
+        {
+          "nmID": 227008024,
+          "vendorCode": "fountain_flower_white",
+          "brandName": "Homeria",
+          "object": {
+            "name": "Фонтаны"
+          },
+          "statistics": {
+            "selectedPeriod": {
+              "begin": "2025-08-04 00:00:00",
+              "end": "2025-08-04 23:59:59",
+              "openCardCount": 252,
+              "addToCartCount": 31,
+              "ordersCount": 3,
+              "ordersSumRub": 2757,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 3,
+              "avgPriceRub": 919,
+              "conversions": {
+                "addToCartPercent": 12,
+                "cartToOrderPercent": 10,
+                "buyoutsPercent": 0
+              }
+            },
+            "previousPeriod": {
+              "begin": "2025-08-03 00:00:00",
+              "end": "2025-08-03 23:59:59",
+              "openCardCount": 241,
+              "addToCartCount": 20,
+              "ordersCount": 3,
+              "ordersSumRub": 4182,
+              "buyoutsCount": 1,
+              "buyoutsSumRub": 1394,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 3,
+              "avgPriceRub": 1394,
+              "conversions": {
+                "addToCartPercent": 8,
+                "cartToOrderPercent": 15,
+                "buyoutsPercent": 100
+              }
+            },
+            "periodComparison": {
+              "openCardDynamics": 5,
+              "addToCartDynamics": 55,
+              "ordersCountDynamics": 0,
+              "ordersSumRubDynamics": -34,
+              "buyoutsCountDynamics": -100,
+              "buyoutsSumRubDynamics": -100,
+              "cancelCountDynamics": 0,
+              "cancelSumRubDynamics": 0,
+              "avgOrdersCountPerDayDynamics": 0,
+              "avgPriceRubDynamics": -34,
+              "conversions": {
+                "addToCartPercent": 50,
+                "cartToOrderPercent": -33,
+                "buyoutsPercent": -100
+              }
+            }
+          },
+          "stocks": {
+            "stocksWb": 318
+          }
+        },
+        {
+          "nmID": 227008026,
+          "vendorCode": "fountain_flower_lavender",
+          "brandName": "Homeria",
+          "object": {
+            "name": "Фонтаны"
+          },
+          "statistics": {
+            "selectedPeriod": {
+              "begin": "2025-08-04 00:00:00",
+              "end": "2025-08-04 23:59:59",
+              "openCardCount": 93,
+              "addToCartCount": 2,
+              "ordersCount": 1,
+              "ordersSumRub": 1394,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 1,
+              "avgPriceRub": 1394,
+              "conversions": {
+                "addToCartPercent": 2,
+                "cartToOrderPercent": 50,
+                "buyoutsPercent": 0
+              }
+            },
+            "previousPeriod": {
+              "begin": "2025-08-03 00:00:00",
+              "end": "2025-08-03 23:59:59",
+              "openCardCount": 96,
+              "addToCartCount": 6,
+              "ordersCount": 4,
+              "ordersSumRub": 5576,
+              "buyoutsCount": 2,
+              "buyoutsSumRub": 2788,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 4,
+              "avgPriceRub": 1394,
+              "conversions": {
+                "addToCartPercent": 6,
+                "cartToOrderPercent": 67,
+                "buyoutsPercent": 100
+              }
+            },
+            "periodComparison": {
+              "openCardDynamics": -3,
+              "addToCartDynamics": -67,
+              "ordersCountDynamics": -75,
+              "ordersSumRubDynamics": -75,
+              "buyoutsCountDynamics": -100,
+              "buyoutsSumRubDynamics": -100,
+              "cancelCountDynamics": 0,
+              "cancelSumRubDynamics": 0,
+              "avgOrdersCountPerDayDynamics": -75,
+              "avgPriceRubDynamics": 0,
+              "conversions": {
+                "addToCartPercent": -67,
+                "cartToOrderPercent": -25,
+                "buyoutsPercent": -100
+              }
+            }
+          },
+          "stocks": {
+            "stocksWb": 185
+          }
+        },
+        {
+          "nmID": 390266390,
+          "vendorCode": "fountain_flower_blue",
+          "brandName": "Homeria",
+          "object": {
+            "name": "Фонтаны"
+          },
+          "statistics": {
+            "selectedPeriod": {
+              "begin": "2025-08-04 00:00:00",
+              "end": "2025-08-04 23:59:59",
+              "openCardCount": 85,
+              "addToCartCount": 8,
+              "ordersCount": 1,
+              "ordersSumRub": 1394,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 1,
+              "avgPriceRub": 1394,
+              "conversions": {
+                "addToCartPercent": 9,
+                "cartToOrderPercent": 13,
+                "buyoutsPercent": 0
+              }
+            },
+            "previousPeriod": {
+              "begin": "2025-08-03 00:00:00",
+              "end": "2025-08-03 23:59:59",
+              "openCardCount": 77,
+              "addToCartCount": 3,
+              "ordersCount": 2,
+              "ordersSumRub": 2788,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 2,
+              "avgPriceRub": 1394,
+              "conversions": {
+                "addToCartPercent": 4,
+                "cartToOrderPercent": 67,
+                "buyoutsPercent": 0
+              }
+            },
+            "periodComparison": {
+              "openCardDynamics": 10,
+              "addToCartDynamics": 167,
+              "ordersCountDynamics": -50,
+              "ordersSumRubDynamics": -50,
+              "buyoutsCountDynamics": 0,
+              "buyoutsSumRubDynamics": 0,
+              "cancelCountDynamics": 0,
+              "cancelSumRubDynamics": 0,
+              "avgOrdersCountPerDayDynamics": -50,
+              "avgPriceRubDynamics": 0,
+              "conversions": {
+                "addToCartPercent": 125,
+                "cartToOrderPercent": -81,
+                "buyoutsPercent": 0
+              }
+            }
+          },
+          "stocks": {
+            "stocksWb": 39
+          }
+        },
+        {
+          "nmID": 387870772,
+          "vendorCode": "сова_1",
+          "brandName": "Homeria",
+          "object": {
+            "name": "Светильники уличные"
+          },
+          "statistics": {
+            "selectedPeriod": {
+              "begin": "2025-08-04 00:00:00",
+              "end": "2025-08-04 23:59:59",
+              "openCardCount": 144,
+              "addToCartCount": 19,
+              "ordersCount": 2,
+              "ordersSumRub": 1218,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 2,
+              "avgPriceRub": 609,
+              "conversions": {
+                "addToCartPercent": 13,
+                "cartToOrderPercent": 11,
+                "buyoutsPercent": 0
+              }
+            },
+            "previousPeriod": {
+              "begin": "2025-08-03 00:00:00",
+              "end": "2025-08-03 23:59:59",
+              "openCardCount": 125,
+              "addToCartCount": 20,
+              "ordersCount": 5,
+              "ordersSumRub": 3045,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 5,
+              "avgPriceRub": 609,
+              "conversions": {
+                "addToCartPercent": 16,
+                "cartToOrderPercent": 25,
+                "buyoutsPercent": 0
+              }
+            },
+            "periodComparison": {
+              "openCardDynamics": 15,
+              "addToCartDynamics": -5,
+              "ordersCountDynamics": -60,
+              "ordersSumRubDynamics": -60,
+              "buyoutsCountDynamics": 0,
+              "buyoutsSumRubDynamics": 0,
+              "cancelCountDynamics": 0,
+              "cancelSumRubDynamics": 0,
+              "avgOrdersCountPerDayDynamics": -60,
+              "avgPriceRubDynamics": 0,
+              "conversions": {
+                "addToCartPercent": -19,
+                "cartToOrderPercent": -56,
+                "buyoutsPercent": 0
+              }
+            }
+          },
+          "stocks": {
+            "stocksWb": 225
+          }
+        },
+        {
+          "nmID": 446707438,
+          "vendorCode": "лягушка_1",
+          "brandName": "Homeria",
+          "object": {
+            "name": "Светильники уличные"
+          },
+          "statistics": {
+            "selectedPeriod": {
+              "begin": "2025-08-04 00:00:00",
+              "end": "2025-08-04 23:59:59",
+              "openCardCount": 107,
+              "addToCartCount": 12,
+              "ordersCount": 1,
+              "ordersSumRub": 730,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 1,
+              "avgPriceRub": 730,
+              "conversions": {
+                "addToCartPercent": 11,
+                "cartToOrderPercent": 8,
+                "buyoutsPercent": 0
+              }
+            },
+            "previousPeriod": {
+              "begin": "2025-08-03 00:00:00",
+              "end": "2025-08-03 23:59:59",
+              "openCardCount": 71,
+              "addToCartCount": 13,
+              "ordersCount": 2,
+              "ordersSumRub": 1460,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 2,
+              "avgPriceRub": 730,
+              "conversions": {
+                "addToCartPercent": 18,
+                "cartToOrderPercent": 15,
+                "buyoutsPercent": 0
+              }
+            },
+            "periodComparison": {
+              "openCardDynamics": 51,
+              "addToCartDynamics": -8,
+              "ordersCountDynamics": -50,
+              "ordersSumRubDynamics": -50,
+              "buyoutsCountDynamics": 0,
+              "buyoutsSumRubDynamics": 0,
+              "cancelCountDynamics": 0,
+              "cancelSumRubDynamics": 0,
+              "avgOrdersCountPerDayDynamics": -50,
+              "avgPriceRubDynamics": 0,
+              "conversions": {
+                "addToCartPercent": -39,
+                "cartToOrderPercent": -47,
+                "buyoutsPercent": 0
+              }
+            }
+          },
+          "stocks": {
+            "stocksWb": 45
+          }
+        },
+        {
+          "nmID": 279888954,
+          "vendorCode": "свет60черн",
+          "brandName": "Homeria",
+          "object": {
+            "name": "Светильники"
+          },
+          "statistics": {
+            "selectedPeriod": {
+              "begin": "2025-08-04 00:00:00",
+              "end": "2025-08-04 23:59:59",
+              "openCardCount": 16,
+              "addToCartCount": 2,
+              "ordersCount": 1,
+              "ordersSumRub": 620,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 1,
+              "avgPriceRub": 620,
+              "conversions": {
+                "addToCartPercent": 13,
+                "cartToOrderPercent": 50,
+                "buyoutsPercent": 0
+              }
+            },
+            "previousPeriod": {
+              "begin": "2025-08-03 00:00:00",
+              "end": "2025-08-03 23:59:59",
+              "openCardCount": 34,
+              "addToCartCount": 8,
+              "ordersCount": 1,
+              "ordersSumRub": 620,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 1,
+              "avgPriceRub": 620,
+              "conversions": {
+                "addToCartPercent": 24,
+                "cartToOrderPercent": 13,
+                "buyoutsPercent": 0
+              }
+            },
+            "periodComparison": {
+              "openCardDynamics": -53,
+              "addToCartDynamics": -75,
+              "ordersCountDynamics": 0,
+              "ordersSumRubDynamics": 0,
+              "buyoutsCountDynamics": 0,
+              "buyoutsSumRubDynamics": 0,
+              "cancelCountDynamics": 0,
+              "cancelSumRubDynamics": 0,
+              "avgOrdersCountPerDayDynamics": 0,
+              "avgPriceRubDynamics": 0,
+              "conversions": {
+                "addToCartPercent": -46,
+                "cartToOrderPercent": 285,
+                "buyoutsPercent": 0
+              }
+            }
+          },
+          "stocks": {
+            "stocksWb": 11
+          }
+        },
+        {
+          "nmID": 98874716,
+          "vendorCode": "homeria_filter_white1",
+          "brandName": "Homeria",
+          "object": {
+            "name": "Фильтры для слива"
+          },
+          "statistics": {
+            "selectedPeriod": {
+              "begin": "2025-08-04 00:00:00",
+              "end": "2025-08-04 23:59:59",
+              "openCardCount": 0,
+              "addToCartCount": 0,
+              "ordersCount": 0,
+              "ordersSumRub": 0,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 0,
+              "avgPriceRub": 0,
+              "conversions": {
+                "addToCartPercent": 0,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            },
+            "previousPeriod": {
+              "begin": "2025-08-03 00:00:00",
+              "end": "2025-08-03 23:59:59",
+              "openCardCount": 3,
+              "addToCartCount": 0,
+              "ordersCount": 0,
+              "ordersSumRub": 0,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 0,
+              "avgPriceRub": 0,
+              "conversions": {
+                "addToCartPercent": 0,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            },
+            "periodComparison": {
+              "openCardDynamics": -100,
+              "addToCartDynamics": 0,
+              "ordersCountDynamics": 0,
+              "ordersSumRubDynamics": 0,
+              "buyoutsCountDynamics": 0,
+              "buyoutsSumRubDynamics": 0,
+              "cancelCountDynamics": 0,
+              "cancelSumRubDynamics": 0,
+              "avgOrdersCountPerDayDynamics": 0,
+              "avgPriceRubDynamics": 0,
+              "conversions": {
+                "addToCartPercent": 0,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            }
+          },
+          "stocks": {
+            "stocksWb": 0
+          }
+        },
+        {
+          "nmID": 98874720,
+          "vendorCode": "homeria_filter_blue1",
+          "brandName": "Homeria",
+          "object": {
+            "name": "Фильтры для слива"
+          },
+          "statistics": {
+            "selectedPeriod": {
+              "begin": "2025-08-04 00:00:00",
+              "end": "2025-08-04 23:59:59",
+              "openCardCount": 0,
+              "addToCartCount": 0,
+              "ordersCount": 0,
+              "ordersSumRub": 0,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 0,
+              "avgPriceRub": 0,
+              "conversions": {
+                "addToCartPercent": 0,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            },
+            "previousPeriod": {
+              "begin": "2025-08-03 00:00:00",
+              "end": "2025-08-03 23:59:59",
+              "openCardCount": 2,
+              "addToCartCount": 0,
+              "ordersCount": 0,
+              "ordersSumRub": 0,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 0,
+              "avgPriceRub": 0,
+              "conversions": {
+                "addToCartPercent": 0,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            },
+            "periodComparison": {
+              "openCardDynamics": -100,
+              "addToCartDynamics": 0,
+              "ordersCountDynamics": 0,
+              "ordersSumRubDynamics": 0,
+              "buyoutsCountDynamics": 0,
+              "buyoutsSumRubDynamics": 0,
+              "cancelCountDynamics": 0,
+              "cancelSumRubDynamics": 0,
+              "avgOrdersCountPerDayDynamics": 0,
+              "avgPriceRubDynamics": 0,
+              "conversions": {
+                "addToCartPercent": 0,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            }
+          },
+          "stocks": {
+            "stocksWb": 0
+          }
+        },
+        {
+          "nmID": 177580781,
+          "vendorCode": "контейнер_для_заморозки_homeria",
+          "brandName": "Homeria",
+          "object": {
+            "name": "Контейнеры из полимеров"
+          },
+          "statistics": {
+            "selectedPeriod": {
+              "begin": "2025-08-04 00:00:00",
+              "end": "2025-08-04 23:59:59",
+              "openCardCount": 0,
+              "addToCartCount": 0,
+              "ordersCount": 0,
+              "ordersSumRub": 0,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 0,
+              "avgPriceRub": 0,
+              "conversions": {
+                "addToCartPercent": 0,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            },
+            "previousPeriod": {
+              "begin": "2025-08-03 00:00:00",
+              "end": "2025-08-03 23:59:59",
+              "openCardCount": 2,
+              "addToCartCount": 0,
+              "ordersCount": 0,
+              "ordersSumRub": 0,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 0,
+              "avgPriceRub": 0,
+              "conversions": {
+                "addToCartPercent": 0,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            },
+            "periodComparison": {
+              "openCardDynamics": -100,
+              "addToCartDynamics": 0,
+              "ordersCountDynamics": 0,
+              "ordersSumRubDynamics": 0,
+              "buyoutsCountDynamics": 0,
+              "buyoutsSumRubDynamics": 0,
+              "cancelCountDynamics": 0,
+              "cancelSumRubDynamics": 0,
+              "avgOrdersCountPerDayDynamics": 0,
+              "avgPriceRubDynamics": 0,
+              "conversions": {
+                "addToCartPercent": 0,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            }
+          },
+          "stocks": {
+            "stocksWb": 0
+          }
+        },
+        {
+          "nmID": 177581612,
+          "vendorCode": "корсет_женский_homeria",
+          "brandName": "",
+          "object": {
+            "name": "Корсеты"
+          },
+          "statistics": {
+            "selectedPeriod": {
+              "begin": "2025-08-04 00:00:00",
+              "end": "2025-08-04 23:59:59",
+              "openCardCount": 1,
+              "addToCartCount": 0,
+              "ordersCount": 0,
+              "ordersSumRub": 0,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 0,
+              "avgPriceRub": 0,
+              "conversions": {
+                "addToCartPercent": 0,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            },
+            "previousPeriod": {
+              "begin": "2025-08-03 00:00:00",
+              "end": "2025-08-03 23:59:59",
+              "openCardCount": 3,
+              "addToCartCount": 0,
+              "ordersCount": 0,
+              "ordersSumRub": 0,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 0,
+              "avgPriceRub": 0,
+              "conversions": {
+                "addToCartPercent": 0,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            },
+            "periodComparison": {
+              "openCardDynamics": -67,
+              "addToCartDynamics": 0,
+              "ordersCountDynamics": 0,
+              "ordersSumRubDynamics": 0,
+              "buyoutsCountDynamics": 0,
+              "buyoutsSumRubDynamics": 0,
+              "cancelCountDynamics": 0,
+              "cancelSumRubDynamics": 0,
+              "avgOrdersCountPerDayDynamics": 0,
+              "avgPriceRubDynamics": 0,
+              "conversions": {
+                "addToCartPercent": 0,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            }
+          },
+          "stocks": {
+            "stocksWb": 1
+          }
+        },
+        {
+          "nmID": 194924694,
+          "vendorCode": "серый_120х120",
+          "brandName": "Homeria",
+          "object": {
+            "name": "Ковры"
+          },
+          "statistics": {
+            "selectedPeriod": {
+              "begin": "2025-08-04 00:00:00",
+              "end": "2025-08-04 23:59:59",
+              "openCardCount": 1,
+              "addToCartCount": 0,
+              "ordersCount": 0,
+              "ordersSumRub": 0,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 0,
+              "avgPriceRub": 0,
+              "conversions": {
+                "addToCartPercent": 0,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            },
+            "previousPeriod": {
+              "begin": "2025-08-03 00:00:00",
+              "end": "2025-08-03 23:59:59",
+              "openCardCount": 0,
+              "addToCartCount": 0,
+              "ordersCount": 0,
+              "ordersSumRub": 0,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 0,
+              "avgPriceRub": 0,
+              "conversions": {
+                "addToCartPercent": 0,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            },
+            "periodComparison": {
+              "openCardDynamics": 100,
+              "addToCartDynamics": 0,
+              "ordersCountDynamics": 0,
+              "ordersSumRubDynamics": 0,
+              "buyoutsCountDynamics": 0,
+              "buyoutsSumRubDynamics": 0,
+              "cancelCountDynamics": 0,
+              "cancelSumRubDynamics": 0,
+              "avgOrdersCountPerDayDynamics": 0,
+              "avgPriceRubDynamics": 0,
+              "conversions": {
+                "addToCartPercent": 0,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            }
+          },
+          "stocks": {
+            "stocksWb": 0
+          }
+        },
+        {
+          "nmID": 197894758,
+          "vendorCode": "корсет_бежевый_homeria",
+          "brandName": "Homeria",
+          "object": {
+            "name": "Корсеты"
+          },
+          "statistics": {
+            "selectedPeriod": {
+              "begin": "2025-08-04 00:00:00",
+              "end": "2025-08-04 23:59:59",
+              "openCardCount": 0,
+              "addToCartCount": 0,
+              "ordersCount": 0,
+              "ordersSumRub": 0,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 0,
+              "avgPriceRub": 0,
+              "conversions": {
+                "addToCartPercent": 0,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            },
+            "previousPeriod": {
+              "begin": "2025-08-03 00:00:00",
+              "end": "2025-08-03 23:59:59",
+              "openCardCount": 1,
+              "addToCartCount": 0,
+              "ordersCount": 0,
+              "ordersSumRub": 0,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 0,
+              "avgPriceRub": 0,
+              "conversions": {
+                "addToCartPercent": 0,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            },
+            "periodComparison": {
+              "openCardDynamics": -100,
+              "addToCartDynamics": 0,
+              "ordersCountDynamics": 0,
+              "ordersSumRubDynamics": 0,
+              "buyoutsCountDynamics": 0,
+              "buyoutsSumRubDynamics": 0,
+              "cancelCountDynamics": 0,
+              "cancelSumRubDynamics": 0,
+              "avgOrdersCountPerDayDynamics": 0,
+              "avgPriceRubDynamics": 0,
+              "conversions": {
+                "addToCartPercent": 0,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            }
+          },
+          "stocks": {
+            "stocksWb": 0
+          }
+        },
+        {
+          "nmID": 255625027,
+          "vendorCode": "светильник_homeria",
+          "brandName": "Homeria",
+          "object": {
+            "name": "Светильники"
+          },
+          "statistics": {
+            "selectedPeriod": {
+              "begin": "2025-08-04 00:00:00",
+              "end": "2025-08-04 23:59:59",
+              "openCardCount": 1,
+              "addToCartCount": 0,
+              "ordersCount": 0,
+              "ordersSumRub": 0,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 0,
+              "avgPriceRub": 0,
+              "conversions": {
+                "addToCartPercent": 0,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            },
+            "previousPeriod": {
+              "begin": "2025-08-03 00:00:00",
+              "end": "2025-08-03 23:59:59",
+              "openCardCount": 0,
+              "addToCartCount": 0,
+              "ordersCount": 0,
+              "ordersSumRub": 0,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 0,
+              "avgPriceRub": 0,
+              "conversions": {
+                "addToCartPercent": 0,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            },
+            "periodComparison": {
+              "openCardDynamics": 100,
+              "addToCartDynamics": 0,
+              "ordersCountDynamics": 0,
+              "ordersSumRubDynamics": 0,
+              "buyoutsCountDynamics": 0,
+              "buyoutsSumRubDynamics": 0,
+              "cancelCountDynamics": 0,
+              "cancelSumRubDynamics": 0,
+              "avgOrdersCountPerDayDynamics": 0,
+              "avgPriceRubDynamics": 0,
+              "conversions": {
+                "addToCartPercent": 0,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            }
+          },
+          "stocks": {
+            "stocksWb": 0
+          }
+        },
+        {
+          "nmID": 255646398,
+          "vendorCode": "светильник_плавающий_1шт",
+          "brandName": "Homeria",
+          "object": {
+            "name": "Светильники уличные"
+          },
+          "statistics": {
+            "selectedPeriod": {
+              "begin": "2025-08-04 00:00:00",
+              "end": "2025-08-04 23:59:59",
+              "openCardCount": 67,
+              "addToCartCount": 4,
+              "ordersCount": 0,
+              "ordersSumRub": 0,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 0,
+              "avgPriceRub": 0,
+              "conversions": {
+                "addToCartPercent": 6,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            },
+            "previousPeriod": {
+              "begin": "2025-08-03 00:00:00",
+              "end": "2025-08-03 23:59:59",
+              "openCardCount": 59,
+              "addToCartCount": 4,
+              "ordersCount": 0,
+              "ordersSumRub": 0,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 0,
+              "avgPriceRub": 0,
+              "conversions": {
+                "addToCartPercent": 7,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            },
+            "periodComparison": {
+              "openCardDynamics": 14,
+              "addToCartDynamics": 0,
+              "ordersCountDynamics": 0,
+              "ordersSumRubDynamics": 0,
+              "buyoutsCountDynamics": 0,
+              "buyoutsSumRubDynamics": 0,
+              "cancelCountDynamics": 0,
+              "cancelSumRubDynamics": 0,
+              "avgOrdersCountPerDayDynamics": 0,
+              "avgPriceRubDynamics": 0,
+              "conversions": {
+                "addToCartPercent": -14,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            }
+          },
+          "stocks": {
+            "stocksWb": 6
+          }
+        },
+        {
+          "nmID": 255830898,
+          "vendorCode": "светильник_плавающий",
+          "brandName": "Homeria",
+          "object": {
+            "name": "Светильники уличные"
+          },
+          "statistics": {
+            "selectedPeriod": {
+              "begin": "2025-08-04 00:00:00",
+              "end": "2025-08-04 23:59:59",
+              "openCardCount": 0,
+              "addToCartCount": 0,
+              "ordersCount": 0,
+              "ordersSumRub": 0,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 0,
+              "avgPriceRub": 0,
+              "conversions": {
+                "addToCartPercent": 0,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            },
+            "previousPeriod": {
+              "begin": "2025-08-03 00:00:00",
+              "end": "2025-08-03 23:59:59",
+              "openCardCount": 1,
+              "addToCartCount": 0,
+              "ordersCount": 0,
+              "ordersSumRub": 0,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 0,
+              "avgPriceRub": 0,
+              "conversions": {
+                "addToCartPercent": 0,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            },
+            "periodComparison": {
+              "openCardDynamics": -100,
+              "addToCartDynamics": 0,
+              "ordersCountDynamics": 0,
+              "ordersSumRubDynamics": 0,
+              "buyoutsCountDynamics": 0,
+              "buyoutsSumRubDynamics": 0,
+              "cancelCountDynamics": 0,
+              "cancelSumRubDynamics": 0,
+              "avgOrdersCountPerDayDynamics": 0,
+              "avgPriceRubDynamics": 0,
+              "conversions": {
+                "addToCartPercent": 0,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            }
+          },
+          "stocks": {
+            "stocksWb": 0
+          }
+        },
+        {
+          "nmID": 255835825,
+          "vendorCode": "фонтан_на_аккумуляторе",
+          "brandName": "Homeria",
+          "object": {
+            "name": "Фонтаны"
+          },
+          "statistics": {
+            "selectedPeriod": {
+              "begin": "2025-08-04 00:00:00",
+              "end": "2025-08-04 23:59:59",
+              "openCardCount": 101,
+              "addToCartCount": 2,
+              "ordersCount": 0,
+              "ordersSumRub": 0,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 0,
+              "avgPriceRub": 0,
+              "conversions": {
+                "addToCartPercent": 2,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            },
+            "previousPeriod": {
+              "begin": "2025-08-03 00:00:00",
+              "end": "2025-08-03 23:59:59",
+              "openCardCount": 71,
+              "addToCartCount": 5,
+              "ordersCount": 0,
+              "ordersSumRub": 0,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 0,
+              "avgPriceRub": 0,
+              "conversions": {
+                "addToCartPercent": 7,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            },
+            "periodComparison": {
+              "openCardDynamics": 42,
+              "addToCartDynamics": -60,
+              "ordersCountDynamics": 0,
+              "ordersSumRubDynamics": 0,
+              "buyoutsCountDynamics": 0,
+              "buyoutsSumRubDynamics": 0,
+              "cancelCountDynamics": 0,
+              "cancelSumRubDynamics": 0,
+              "avgOrdersCountPerDayDynamics": 0,
+              "avgPriceRubDynamics": 0,
+              "conversions": {
+                "addToCartPercent": -71,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            }
+          },
+          "stocks": {
+            "stocksWb": 15
+          }
+        },
+        {
+          "nmID": 255836300,
+          "vendorCode": "фонтан_кувшинки_3шт",
+          "brandName": "Homeria",
+          "object": {
+            "name": "Фонтаны"
+          },
+          "statistics": {
+            "selectedPeriod": {
+              "begin": "2025-08-04 00:00:00",
+              "end": "2025-08-04 23:59:59",
+              "openCardCount": 0,
+              "addToCartCount": 0,
+              "ordersCount": 0,
+              "ordersSumRub": 0,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 0,
+              "avgPriceRub": 0,
+              "conversions": {
+                "addToCartPercent": 0,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            },
+            "previousPeriod": {
+              "begin": "2025-08-03 00:00:00",
+              "end": "2025-08-03 23:59:59",
+              "openCardCount": 1,
+              "addToCartCount": 0,
+              "ordersCount": 0,
+              "ordersSumRub": 0,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 0,
+              "avgPriceRub": 0,
+              "conversions": {
+                "addToCartPercent": 0,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            },
+            "periodComparison": {
+              "openCardDynamics": -100,
+              "addToCartDynamics": 0,
+              "ordersCountDynamics": 0,
+              "ordersSumRubDynamics": 0,
+              "buyoutsCountDynamics": 0,
+              "buyoutsSumRubDynamics": 0,
+              "cancelCountDynamics": 0,
+              "cancelSumRubDynamics": 0,
+              "avgOrdersCountPerDayDynamics": 0,
+              "avgPriceRubDynamics": 0,
+              "conversions": {
+                "addToCartPercent": 0,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            }
+          },
+          "stocks": {
+            "stocksWb": 0
+          }
+        },
+        {
+          "nmID": 261753977,
+          "vendorCode": "БР112В",
+          "brandName": "Homeria",
+          "object": {
+            "name": "Бра"
+          },
+          "statistics": {
+            "selectedPeriod": {
+              "begin": "2025-08-04 00:00:00",
+              "end": "2025-08-04 23:59:59",
+              "openCardCount": 0,
+              "addToCartCount": 0,
+              "ordersCount": 0,
+              "ordersSumRub": 0,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 0,
+              "avgPriceRub": 0,
+              "conversions": {
+                "addToCartPercent": 0,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            },
+            "previousPeriod": {
+              "begin": "2025-08-03 00:00:00",
+              "end": "2025-08-03 23:59:59",
+              "openCardCount": 1,
+              "addToCartCount": 0,
+              "ordersCount": 0,
+              "ordersSumRub": 0,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 0,
+              "avgPriceRub": 0,
+              "conversions": {
+                "addToCartPercent": 0,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            },
+            "periodComparison": {
+              "openCardDynamics": -100,
+              "addToCartDynamics": 0,
+              "ordersCountDynamics": 0,
+              "ordersSumRubDynamics": 0,
+              "buyoutsCountDynamics": 0,
+              "buyoutsSumRubDynamics": 0,
+              "cancelCountDynamics": 0,
+              "cancelSumRubDynamics": 0,
+              "avgOrdersCountPerDayDynamics": 0,
+              "avgPriceRubDynamics": 0,
+              "conversions": {
+                "addToCartPercent": 0,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            }
+          },
+          "stocks": {
+            "stocksWb": 0
+          }
+        },
+        {
+          "nmID": 261775085,
+          "vendorCode": "БР112S",
+          "brandName": "Homeria",
+          "object": {
+            "name": "Бра"
+          },
+          "statistics": {
+            "selectedPeriod": {
+              "begin": "2025-08-04 00:00:00",
+              "end": "2025-08-04 23:59:59",
+              "openCardCount": 1,
+              "addToCartCount": 0,
+              "ordersCount": 0,
+              "ordersSumRub": 0,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 0,
+              "avgPriceRub": 0,
+              "conversions": {
+                "addToCartPercent": 0,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            },
+            "previousPeriod": {
+              "begin": "2025-08-03 00:00:00",
+              "end": "2025-08-03 23:59:59",
+              "openCardCount": 1,
+              "addToCartCount": 0,
+              "ordersCount": 0,
+              "ordersSumRub": 0,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 0,
+              "avgPriceRub": 0,
+              "conversions": {
+                "addToCartPercent": 0,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            },
+            "periodComparison": {
+              "openCardDynamics": 0,
+              "addToCartDynamics": 0,
+              "ordersCountDynamics": 0,
+              "ordersSumRubDynamics": 0,
+              "buyoutsCountDynamics": 0,
+              "buyoutsSumRubDynamics": 0,
+              "cancelCountDynamics": 0,
+              "cancelSumRubDynamics": 0,
+              "avgOrdersCountPerDayDynamics": 0,
+              "avgPriceRubDynamics": 0,
+              "conversions": {
+                "addToCartPercent": 0,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            }
+          },
+          "stocks": {
+            "stocksWb": 0
+          }
+        },
+        {
+          "nmID": 261775648,
+          "vendorCode": "БР111В",
+          "brandName": "Homeria",
+          "object": {
+            "name": "Бра"
+          },
+          "statistics": {
+            "selectedPeriod": {
+              "begin": "2025-08-04 00:00:00",
+              "end": "2025-08-04 23:59:59",
+              "openCardCount": 0,
+              "addToCartCount": 0,
+              "ordersCount": 0,
+              "ordersSumRub": 0,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 0,
+              "avgPriceRub": 0,
+              "conversions": {
+                "addToCartPercent": 0,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            },
+            "previousPeriod": {
+              "begin": "2025-08-03 00:00:00",
+              "end": "2025-08-03 23:59:59",
+              "openCardCount": 17,
+              "addToCartCount": 2,
+              "ordersCount": 1,
+              "ordersSumRub": 1047,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 1,
+              "avgPriceRub": 1047,
+              "conversions": {
+                "addToCartPercent": 12,
+                "cartToOrderPercent": 50,
+                "buyoutsPercent": 0
+              }
+            },
+            "periodComparison": {
+              "openCardDynamics": -100,
+              "addToCartDynamics": -100,
+              "ordersCountDynamics": -100,
+              "ordersSumRubDynamics": -100,
+              "buyoutsCountDynamics": 0,
+              "buyoutsSumRubDynamics": 0,
+              "cancelCountDynamics": 0,
+              "cancelSumRubDynamics": 0,
+              "avgOrdersCountPerDayDynamics": -100,
+              "avgPriceRubDynamics": -100,
+              "conversions": {
+                "addToCartPercent": -100,
+                "cartToOrderPercent": -100,
+                "buyoutsPercent": 0
+              }
+            }
+          },
+          "stocks": {
+            "stocksWb": 0
+          }
+        },
+        {
+          "nmID": 261776804,
+          "vendorCode": "БР111S",
+          "brandName": "Homeria",
+          "object": {
+            "name": "Бра"
+          },
+          "statistics": {
+            "selectedPeriod": {
+              "begin": "2025-08-04 00:00:00",
+              "end": "2025-08-04 23:59:59",
+              "openCardCount": 2,
+              "addToCartCount": 0,
+              "ordersCount": 0,
+              "ordersSumRub": 0,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 0,
+              "avgPriceRub": 0,
+              "conversions": {
+                "addToCartPercent": 0,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            },
+            "previousPeriod": {
+              "begin": "2025-08-03 00:00:00",
+              "end": "2025-08-03 23:59:59",
+              "openCardCount": 3,
+              "addToCartCount": 0,
+              "ordersCount": 0,
+              "ordersSumRub": 0,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 0,
+              "avgPriceRub": 0,
+              "conversions": {
+                "addToCartPercent": 0,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            },
+            "periodComparison": {
+              "openCardDynamics": -33,
+              "addToCartDynamics": 0,
+              "ordersCountDynamics": 0,
+              "ordersSumRubDynamics": 0,
+              "buyoutsCountDynamics": 0,
+              "buyoutsSumRubDynamics": 0,
+              "cancelCountDynamics": 0,
+              "cancelSumRubDynamics": 0,
+              "avgOrdersCountPerDayDynamics": 0,
+              "avgPriceRubDynamics": 0,
+              "conversions": {
+                "addToCartPercent": 0,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            }
+          },
+          "stocks": {
+            "stocksWb": 0
+          }
+        },
+        {
+          "nmID": 261778374,
+          "vendorCode": "БР211S",
+          "brandName": "Homeria",
+          "object": {
+            "name": "Бра"
+          },
+          "statistics": {
+            "selectedPeriod": {
+              "begin": "2025-08-04 00:00:00",
+              "end": "2025-08-04 23:59:59",
+              "openCardCount": 1,
+              "addToCartCount": 0,
+              "ordersCount": 0,
+              "ordersSumRub": 0,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 0,
+              "avgPriceRub": 0,
+              "conversions": {
+                "addToCartPercent": 0,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            },
+            "previousPeriod": {
+              "begin": "2025-08-03 00:00:00",
+              "end": "2025-08-03 23:59:59",
+              "openCardCount": 0,
+              "addToCartCount": 0,
+              "ordersCount": 0,
+              "ordersSumRub": 0,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 0,
+              "avgPriceRub": 0,
+              "conversions": {
+                "addToCartPercent": 0,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            },
+            "periodComparison": {
+              "openCardDynamics": 100,
+              "addToCartDynamics": 0,
+              "ordersCountDynamics": 0,
+              "ordersSumRubDynamics": 0,
+              "buyoutsCountDynamics": 0,
+              "buyoutsSumRubDynamics": 0,
+              "cancelCountDynamics": 0,
+              "cancelSumRubDynamics": 0,
+              "avgOrdersCountPerDayDynamics": 0,
+              "avgPriceRubDynamics": 0,
+              "conversions": {
+                "addToCartPercent": 0,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            }
+          },
+          "stocks": {
+            "stocksWb": 0
+          }
+        },
+        {
+          "nmID": 261779942,
+          "vendorCode": "БР212В",
+          "brandName": "Homeria",
+          "object": {
+            "name": "Бра"
+          },
+          "statistics": {
+            "selectedPeriod": {
+              "begin": "2025-08-04 00:00:00",
+              "end": "2025-08-04 23:59:59",
+              "openCardCount": 0,
+              "addToCartCount": 0,
+              "ordersCount": 0,
+              "ordersSumRub": 0,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 0,
+              "avgPriceRub": 0,
+              "conversions": {
+                "addToCartPercent": 0,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            },
+            "previousPeriod": {
+              "begin": "2025-08-03 00:00:00",
+              "end": "2025-08-03 23:59:59",
+              "openCardCount": 1,
+              "addToCartCount": 0,
+              "ordersCount": 0,
+              "ordersSumRub": 0,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 0,
+              "avgPriceRub": 0,
+              "conversions": {
+                "addToCartPercent": 0,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            },
+            "periodComparison": {
+              "openCardDynamics": -100,
+              "addToCartDynamics": 0,
+              "ordersCountDynamics": 0,
+              "ordersSumRubDynamics": 0,
+              "buyoutsCountDynamics": 0,
+              "buyoutsSumRubDynamics": 0,
+              "cancelCountDynamics": 0,
+              "cancelSumRubDynamics": 0,
+              "avgOrdersCountPerDayDynamics": 0,
+              "avgPriceRubDynamics": 0,
+              "conversions": {
+                "addToCartPercent": 0,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            }
+          },
+          "stocks": {
+            "stocksWb": 0
+          }
+        },
+        {
+          "nmID": 261783169,
+          "vendorCode": "БР311В",
+          "brandName": "Homeria",
+          "object": {
+            "name": "Бра"
+          },
+          "statistics": {
+            "selectedPeriod": {
+              "begin": "2025-08-04 00:00:00",
+              "end": "2025-08-04 23:59:59",
+              "openCardCount": 8,
+              "addToCartCount": 0,
+              "ordersCount": 0,
+              "ordersSumRub": 0,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 0,
+              "avgPriceRub": 0,
+              "conversions": {
+                "addToCartPercent": 0,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            },
+            "previousPeriod": {
+              "begin": "2025-08-03 00:00:00",
+              "end": "2025-08-03 23:59:59",
+              "openCardCount": 33,
+              "addToCartCount": 3,
+              "ordersCount": 2,
+              "ordersSumRub": 3822,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 2,
+              "avgPriceRub": 1911,
+              "conversions": {
+                "addToCartPercent": 9,
+                "cartToOrderPercent": 67,
+                "buyoutsPercent": 0
+              }
+            },
+            "periodComparison": {
+              "openCardDynamics": -76,
+              "addToCartDynamics": -100,
+              "ordersCountDynamics": -100,
+              "ordersSumRubDynamics": -100,
+              "buyoutsCountDynamics": 0,
+              "buyoutsSumRubDynamics": 0,
+              "cancelCountDynamics": 0,
+              "cancelSumRubDynamics": 0,
+              "avgOrdersCountPerDayDynamics": -100,
+              "avgPriceRubDynamics": -100,
+              "conversions": {
+                "addToCartPercent": -100,
+                "cartToOrderPercent": -100,
+                "buyoutsPercent": 0
+              }
+            }
+          },
+          "stocks": {
+            "stocksWb": 0
+          }
+        },
+        {
+          "nmID": 388967857,
+          "vendorCode": "ежик_1",
+          "brandName": "Homeria",
+          "object": {
+            "name": "Светильники уличные"
+          },
+          "statistics": {
+            "selectedPeriod": {
+              "begin": "2025-08-04 00:00:00",
+              "end": "2025-08-04 23:59:59",
+              "openCardCount": 207,
+              "addToCartCount": 27,
+              "ordersCount": 0,
+              "ordersSumRub": 0,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 0,
+              "avgPriceRub": 0,
+              "conversions": {
+                "addToCartPercent": 13,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            },
+            "previousPeriod": {
+              "begin": "2025-08-03 00:00:00",
+              "end": "2025-08-03 23:59:59",
+              "openCardCount": 65,
+              "addToCartCount": 6,
+              "ordersCount": 0,
+              "ordersSumRub": 0,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 0,
+              "avgPriceRub": 0,
+              "conversions": {
+                "addToCartPercent": 9,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            },
+            "periodComparison": {
+              "openCardDynamics": 218,
+              "addToCartDynamics": 350,
+              "ordersCountDynamics": 0,
+              "ordersSumRubDynamics": 0,
+              "buyoutsCountDynamics": 0,
+              "buyoutsSumRubDynamics": 0,
+              "cancelCountDynamics": 0,
+              "cancelSumRubDynamics": 0,
+              "avgOrdersCountPerDayDynamics": 0,
+              "avgPriceRubDynamics": 0,
+              "conversions": {
+                "addToCartPercent": 44,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            }
+          },
+          "stocks": {
+            "stocksWb": 240
+          }
+        },
+        {
+          "nmID": 412112721,
+          "vendorCode": "подставка_птица",
+          "brandName": "Homeria",
+          "object": {
+            "name": "Фонтаны"
+          },
+          "statistics": {
+            "selectedPeriod": {
+              "begin": "2025-08-04 00:00:00",
+              "end": "2025-08-04 23:59:59",
+              "openCardCount": 433,
+              "addToCartCount": 57,
+              "ordersCount": 0,
+              "ordersSumRub": 0,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 0,
+              "avgPriceRub": 0,
+              "conversions": {
+                "addToCartPercent": 13,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            },
+            "previousPeriod": {
+              "begin": "2025-08-03 00:00:00",
+              "end": "2025-08-03 23:59:59",
+              "openCardCount": 41,
+              "addToCartCount": 2,
+              "ordersCount": 0,
+              "ordersSumRub": 0,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 0,
+              "avgPriceRub": 0,
+              "conversions": {
+                "addToCartPercent": 5,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            },
+            "periodComparison": {
+              "openCardDynamics": 956,
+              "addToCartDynamics": 2750,
+              "ordersCountDynamics": 0,
+              "ordersSumRubDynamics": 0,
+              "buyoutsCountDynamics": 0,
+              "buyoutsSumRubDynamics": 0,
+              "cancelCountDynamics": 0,
+              "cancelSumRubDynamics": 0,
+              "avgOrdersCountPerDayDynamics": 0,
+              "avgPriceRubDynamics": 0,
+              "conversions": {
+                "addToCartPercent": 160,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            }
+          },
+          "stocks": {
+            "stocksWb": 3
+          }
+        },
+        {
+          "nmID": 412805669,
+          "vendorCode": "фонтан_светящийся",
+          "brandName": "Homeria",
+          "object": {
+            "name": "Фонтаны"
+          },
+          "statistics": {
+            "selectedPeriod": {
+              "begin": "2025-08-04 00:00:00",
+              "end": "2025-08-04 23:59:59",
+              "openCardCount": 4,
+              "addToCartCount": 0,
+              "ordersCount": 0,
+              "ordersSumRub": 0,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 0,
+              "avgPriceRub": 0,
+              "conversions": {
+                "addToCartPercent": 0,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            },
+            "previousPeriod": {
+              "begin": "2025-08-03 00:00:00",
+              "end": "2025-08-03 23:59:59",
+              "openCardCount": 12,
+              "addToCartCount": 1,
+              "ordersCount": 0,
+              "ordersSumRub": 0,
+              "buyoutsCount": 0,
+              "buyoutsSumRub": 0,
+              "cancelCount": 0,
+              "cancelSumRub": 0,
+              "avgOrdersCountPerDay": 0,
+              "avgPriceRub": 0,
+              "conversions": {
+                "addToCartPercent": 8,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            },
+            "periodComparison": {
+              "openCardDynamics": -67,
+              "addToCartDynamics": -100,
+              "ordersCountDynamics": 0,
+              "ordersSumRubDynamics": 0,
+              "buyoutsCountDynamics": 0,
+              "buyoutsSumRubDynamics": 0,
+              "cancelCountDynamics": 0,
+              "cancelSumRubDynamics": 0,
+              "avgOrdersCountPerDayDynamics": 0,
+              "avgPriceRubDynamics": 0,
+              "conversions": {
+                "addToCartPercent": -100,
+                "cartToOrderPercent": 0,
+                "buyoutsPercent": 0
+              }
+            }
+          },
+          "stocks": {
+            "stocksWb": 6
+          }
+        }
+      ]
+    }
+  }
+]
